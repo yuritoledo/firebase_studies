@@ -1,6 +1,7 @@
 Studies related to reference type field in firebase.
 
 example to get referenced field data:
+
 `const a = await e.data().myFKField.get()`
 
 example to insert a reference field in firestore:
